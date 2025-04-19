@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WITWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5e0fc01081f51dd2395665e2c6f88f9fb0487df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e88ca33acfd552fd03f80160b2d46c2b277c5a0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WITWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WITWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
