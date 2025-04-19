@@ -1,0 +1,15 @@
+@model WITWebApp.Models.Student
+
+<h2>Student Registration</h2>
+
+<form asp-action="Register" method="post">
+    <div>
+        <label>Full Name</label>
+        <input asp-for="FullName" />
+    </div>
+    <div>
+        <label>Email</label>
+        <input asp-for="Email" />
+    </div>
+    <button type="submit">Register</button>
+</form>
